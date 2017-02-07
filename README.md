@@ -1,1 +1,1 @@
-# javafundamentals
+# Homeworks for Java Fundamentals course taken in Fall 16/17 @ UT
