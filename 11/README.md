@@ -83,8 +83,3 @@ Java IO
 [INFO] Final Memory: 17M/99M
 [INFO] ------------------------------------------------------------------------
 ```
-
-After Maven has finished, you can find the generated ZIP file in *target* folder with name such as 
-*jf-homework-B12345-1.zip* (it contains your Student Book Number/matrikli number and homework number).
-
-Attach the ZIP to an e-mail and **send it our way**, to *jf@zeroturnaround.com*.
